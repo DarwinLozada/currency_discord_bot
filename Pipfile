@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 discord-py = "*"
 requests = "*"
+beautifulsoup4 = "*"
+furl = "*"
 
 [requires]
 python_version = "3.8"
